@@ -1,0 +1,19 @@
+Aggregation functions in NumPy
+
+Aggregation functions in NumPy allow you to summarize large datasets by computing a 
+single value from a collection of numbers. These functions are optimized to work efficiently
+with NumPy arrays and are essential for various data analysis and scientific computing tasks. 
+
+Common aggregation functions
+
+1) np.sum(): Calculates the sum of all elements in an array or along a specified axis.
+2) np.prod(): Computes the product of all elements in an array or along a specified axis.
+3) np.mean(): Calculates the arithmetic mean (average) of array elements, either for the entire array or along a specific axis.
+4) np.std(): Computes the standard deviation of array elements, indicating data dispersion.
+5) np.var(): Calculates the variance of array elements.
+6) np.min(): Finds the minimum value within an array or along a particular axis.
+7) np.max(): Finds the maximum value within an array or along a particular axis.
+8) np.median(): Computes the median (middle value) of array elements.
+9) np.percentile(): Calculates the nth percentile of array elements.
+10) np.any(): Checks if any element along a given axis evaluates to True.
+11) np.all(): Checks if all elements along a given axis evaluate to True

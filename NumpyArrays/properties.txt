@@ -1,0 +1,21 @@
+-------------------  [Key attributes] -------------------------
+
+1) NumPy arrays have several key attributes that provide information about their structure and data:
+2) shape: Provides a tuple indicating the dimensions of the array.
+3) dtype: Specifies the data type of the elements in the array.
+4) ndim: Returns the number of dimensions.
+5) size: Gives the total count of elements.
+6) itemsize: Indicates the size in bytes of each element.
+
+
+------------------- [Creating NumPy arrays] -----------------------------
+
+NumPy offers various functions for creating arrays:
+
+1) np.array(): Creates an array from existing Python lists or similar objects.
+2) np.empty(): Generates an array with a specified shape and type but without initial values.
+3) np.zeros(): Creates an array filled with zeros.
+4) np.ones(): Creates an array filled with ones.
+5) np.arange(): Creates an array with evenly spaced values within a given range.
+6) np.linspace(): Generates a specified number of evenly spaced values over an interval
+

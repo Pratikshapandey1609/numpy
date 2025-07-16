@@ -1,0 +1,14 @@
+
+-------------- Indexing and slicing :--------------------------
+
+1) Indexing: 
+   Accesses individual elements of an array using zero-based indices.
+
+2) Slicing: 
+   Extracts subsets or ranges of elements from an array.
+
+3) Advanced Indexing: 
+   Uses integer arrays or boolean masks for more complex data extraction.  
+
+   fancy Indexing : selecting multiple indexing at once 
+   

@@ -1,0 +1,6 @@
+Reshaping and manipulating NumPy arrays
+
+NumPy offers a variety of functions for reshaping and manipulating arrays, 
+allowing users to modify array structures, combine or split arrays, and change 
+the arrangement of data within them. This flexibility is essential for data preparation, analysis, and various computational tasks 
+in data science and machine learning. 

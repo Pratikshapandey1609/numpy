@@ -1,0 +1,6 @@
+'''
+Vectorization in Python refers to the technique of applying operations to 
+entire arrays or sequences of data at once,
+rather than iterating through individual elements using explicit loops.
+'''
+

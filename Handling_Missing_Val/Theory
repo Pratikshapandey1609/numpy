@@ -1,0 +1,12 @@
+'''
+NumPy provides powerful tools for working with numerical data, 
+and handling missing values, typically represented as np.nan (Not a Number), 
+is a crucial aspect of data cleaning and preparation. 
+
+1) np.isnan()
+2) np.nan_to_num()
+3) np.isnf()
+
+NaN ------ not a number
+
+'''

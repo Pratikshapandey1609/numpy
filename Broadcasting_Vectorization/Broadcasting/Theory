@@ -1,0 +1,16 @@
+## Broadcasting is process of performing the operations on different sizes of arrays 
+
+
+# how numpy handle different sizes of arrys
+
+1) matching dimensions -- if dimensions are equal operations    perform 
+   [1,2,3] + [4,5,6] = [5,7,9]
+
+
+2) Expending single dimensions -->
+   [1 , 2, 3] + [10] --> [11,12,13]
+
+3) Incompatible dimension type 
+   [1,2,3] + [1,2] -----> it gives error 
+
+   

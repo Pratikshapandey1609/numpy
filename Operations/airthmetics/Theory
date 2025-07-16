@@ -1,0 +1,10 @@
+Basic arithmetic operations
+NumPy supports standard arithmetic operations like
+
+addition, 
+subtraction, 
+multiplication, and 
+division, which are applied element-wise to arrays.
+You can use either standard operators (+, -, *, /) or 
+
+dedicated NumPy functions (e.g., np.add(), np.subtract()).

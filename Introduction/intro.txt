@@ -1,0 +1,15 @@
+NumPy (Numerical Python) is a fundamental, open-source Python library 
+designed to handle large, multi-dimensional arrays and matrices efficiently. 
+It also provides a collection of high-level mathematical functions to operate on these arrays, 
+making it essential for scientific and numerical computing in Python
+
+
+key features :---
+
+1) Efficient Multi-dimensional Arrays:
+2) Homogeneous Data Types:
+3) Vectorized Operations:
+4) Broadcasting
+5) Foundation for Other Libraries:
+6) fast Calculations
+
